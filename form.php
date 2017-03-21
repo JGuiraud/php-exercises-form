@@ -20,7 +20,7 @@
 </form>
 
 <?php
-print_r($_GET['nom']);
+print_r($_GET['nom'])
 echo'<br>';
 print_r($_GET['prenom']);
 echo '<hr>';
